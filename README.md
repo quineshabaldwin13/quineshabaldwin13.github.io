@@ -8,7 +8,7 @@
 - Crypto
 - Investing
 
-<img src="q.baldwin.jpg"/>
+<img src="Us.JPG"/>
 
 # Check out my website, below!
 
