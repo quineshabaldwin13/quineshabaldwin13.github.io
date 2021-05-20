@@ -1,6 +1,6 @@
 # quineshabaldwin13.github.io
 
-# Student of Code Immersives
+# Aspiring Web Developer
 
 # Interests
 
