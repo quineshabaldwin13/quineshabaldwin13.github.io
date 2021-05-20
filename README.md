@@ -7,6 +7,7 @@
 - Basketball
 - Crypto
 - Investing
+- Coding
 
 <img src="Us.JPG"/>
 
